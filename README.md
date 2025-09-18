@@ -1,2 +1,2 @@
 # Sikandar-demo
-This is a demo project for learning 
+This is a demo project for learning.
